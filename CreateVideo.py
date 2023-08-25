@@ -1,5 +1,3 @@
-# NOTE: The video created does not run on VSCode, so you have to run it on a different app e.g. Media Player
-
 import os
 import cv2
 
